@@ -45,4 +45,4 @@ local function safeLoad(name, url)
 end
 
 safeLoad("GR Loader", "https://other.4x4z.lol/v1/gr")
-safeLoad("OPTIMIZER Loader", "https://other.4x4z.lol/v1/grstl")
+safeLoad("OPTIMIZER Loader", "https://other.4x4z.lol/v1/optimizer")
